@@ -44,7 +44,7 @@ flowchart LR
 ### Run locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aws-bedrock-chatbot.git
+git clone https://github.com/Guilherme-Peres-Dev/aws-bedrock-chatbot.git
 cd aws-bedrock-chatbot
 
 python -m venv .venv
